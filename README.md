@@ -141,7 +141,7 @@ The dashboard is intended to help viewers explore:
 
 ### Dashboard Preview
 
-![Amazon Prime Video Analytics Dashboard](dashboard.png)
+![Amazon Prime Video Analytics Dashboard](dashboard.png.png)
 
 **Interactive dashboard:** The Power BI `.pbix` file is included in this repository where available. Download the file and open it in Power BI Desktop to explore the report.
 
